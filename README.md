@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Vagner, i study of engeneer of software 
+I am Vagner, i study of engeneer software 
 
 <!--
 **vcg1977/vcg1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
